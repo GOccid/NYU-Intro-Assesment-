@@ -29,7 +29,10 @@ li {
   color: rgb(193, 220, 20);
 }
 body {
-  background-color: black;
+  background-color: blue;
 }
 #Doggy {color: hotpink;
 font: bold;}
+p {font: bold;
+
+}
