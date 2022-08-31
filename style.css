@@ -1,5 +1,35 @@
 /* add code here to make your image 300px square */
+#pet {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+.img {
+  height: 300px;
+  width: 300px;
+}
 
 /* add code here to change the color and font family of your name/title */
 
+H1 {
+  font: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 100px;
+  color: crimson;
+}
+h2 {
+  color: hotpink;
+}
+#tagline {
+  color: orange;
+}
+
 /* Bonus: change the color of your list elements */
+li {
+  color: rgb(193, 220, 20);
+}
+body {
+  background-color: black;
+}
+#Doggy {color: hotpink;
+font: bold;}

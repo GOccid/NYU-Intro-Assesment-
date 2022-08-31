@@ -2,7 +2,7 @@
 let image
 
 // Obtain the 'shrink-grow' button, and assign it to the changeSize variable
-let changeSize
+let changeSize 
 
 //DO NOT CHANGE THE FOLLOWING CODE
 changeSize.addEventListener("click", function() {
